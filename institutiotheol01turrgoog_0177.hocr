@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./institutiotheol01turrgoog_0177.png"; bbox 0 0 3221 5200; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 962 1938 1993 2018">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 962 1938 1993 2018">
+     <span class='ocr_line' id='line_1_1' title="bbox 962 1938 1993 2018; baseline 0.002 -3"><span class='ocrx_word' id='word_1_1' title='bbox 962 1939 1268 2018; x_wconf 89' lang='lat' dir='ltr'>LOCUS</span> <span class='ocrx_word' id='word_1_2' title='bbox 1333 1938 1993 2018; x_wconf 88' lang='lat' dir='ltr'>DUODECIMUS.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 401 2218 2555 2627">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 401 2218 2555 2627">
+     <span class='ocr_line' id='line_1_2' title="bbox 756 2218 2207 2312; baseline 0.001 -4"><span class='ocrx_word' id='word_1_3' title='bbox 756 2218 910 2308; x_wconf 91' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_4' title='bbox 1017 2220 1569 2312; x_wconf 83' lang='lat' dir='ltr'><strong>FOEDERE</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1674 2219 2207 2312; x_wconf 86' lang='lat' dir='ltr'><strong>GRATIAE</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 401 2528 2555 2627; baseline 0.001 -6"><span class='ocrx_word' id='word_1_6' title='bbox 401 2530 547 2623; x_wconf 88' lang='lat' dir='ltr'>ET</span> <span class='ocrx_word' id='word_1_7' title='bbox 662 2530 1234 2627; x_wconf 86' lang='lat' dir='ltr'>DUPLICI</span> <span class='ocrx_word' id='word_1_8' title='bbox 1360 2530 1682 2627; x_wconf 83' lang='lat' dir='ltr'>EJUS</span> <span class='ocrx_word' id='word_1_9' title='bbox 1805 2528 2555 2626; x_wconf 84' lang='lat' dir='ltr'><strong>OECONOMIA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 720 2857 2247 2936">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 720 2857 2247 2936">
+     <span class='ocr_line' id='line_1_4' title="bbox 720 2857 2247 2936; baseline 0.001 -3"><span class='ocrx_word' id='word_1_10' title='bbox 720 2859 816 2934; x_wconf 85' lang='lat' dir='ltr'>IN</span> <span class='ocrx_word' id='word_1_11' title='bbox 854 2857 1180 2933; x_wconf 88' lang='lat' dir='ltr'>VETERI</span> <span class='ocrx_word' id='word_1_12' title='bbox 1221 2859 1327 2933; x_wconf 90' lang='lat' dir='ltr'>ET</span> <span class='ocrx_word' id='word_1_13' title='bbox 1368 2858 1600 2936; x_wconf 82' lang='lat' dir='ltr'>Novo</span> <span class='ocrx_word' id='word_1_14' title='bbox 1644 2858 2247 2935; x_wconf 86' lang='lat' dir='ltr'><strong>TESTAMENTO.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
